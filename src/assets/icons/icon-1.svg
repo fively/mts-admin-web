@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mdpi/路径 2</title>
+    <defs>
+        <path d="M8.57106781,0.292893219 C8.93369751,0.655522918 8.95959963,1.22736831 8.64877418,1.61988597 L8.57106781,1.70710678 L2.20710678,8.07106781 L8.57106781,14.4350288 C8.93369751,14.7976585 8.95959963,15.3695039 8.64877418,15.7620216 L8.57106781,15.8492424 C8.20843811,16.2118721 7.63659272,16.2377742 7.24407506,15.9269488 L7.15685425,15.8492424 L0.439339828,9.13172798 C-0.111988584,8.58039957 -0.144419667,7.70666969 0.342046579,7.1174117 L0.439339828,7.01040764 L7.15685425,0.292893219 C7.54737854,-0.0976310729 8.18054352,-0.0976310729 8.57106781,0.292893219 Z" id="path-1"></path>
+    </defs>
+    <g id="3.3通用报表" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="报表中心" transform="translate(-15.000000, -54.000000)">
+            <g id="Group" transform="translate(-0.000000, 0.000000)">
+                <g id="A05-图标-/-01基础图标-/-头部导航-/-返回" transform="translate(15.000000, 54.000000)">
+                    <g id="矩形" transform="translate(7.000000, 4.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="蒙版" fill="#262626" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <rect fill="#262626" mask="url(#mask-2)" x="-7" y="-4" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
